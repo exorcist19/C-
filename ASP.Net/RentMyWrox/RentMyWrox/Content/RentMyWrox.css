@@ -1,0 +1,89 @@
+﻿        body {
+            font-family: veranda;
+        }
+        #header {
+            background-color:#C40D42;
+            color:white;
+            text-align:center;
+            padding:5px;
+        }
+        #nav {
+            line-height:30px;
+            background-color:#eeeeee;
+            height:300px;
+            width:100px;
+            float:left;
+            padding:5px;
+        }
+        #section {
+            width:750px;
+            float:left;
+            padding:10px;
+        }
+        #footer {
+            background-color:#C40D42;
+            color:white;
+            clear:both;
+            text-align:center;
+          padding:5px;
+        }
+            .dataentry input{
+            margin-left: 20px;
+            margin-top: 15px;
+        }
+
+        .dataentry textarea{
+            margin-left: 20px;
+            margin-top: 15px;
+        }
+
+        .dataentry label{
+            width: 75px;
+            margin-left: 20px;
+            margin-top: 15px;
+        }
+
+        #fuPicture {
+            margin-top: -20px;
+            margin-left: 120px;
+        }
+
+        #LeftNavigation ul
+        {
+            list-style:none;
+            margin:0;
+            padding:0;
+            width:auto;
+        }
+
+        #LeftNavigation a
+        {
+            color-profile: #C40D42;
+            text-decoration: none;
+            white-spce: nowrap;
+            display: block;
+        }
+
+        ul.level1 .selected
+        {
+            /* Defines the appearance of active menu items. */
+            background-color: white;
+            color: #C40D42;
+            padding-right: 15px;
+            padding-left: 8px;
+        }
+
+        a.level 
+        {
+            /* Adds some white space to the left of the main menu item text.
+                    !important is used to overrule the in-line CSS that the menu generates*/
+            padding-left: 5px !important;
+            padding-right: 15px;
+        }
+
+        a.level:hover
+        {
+
+            /* Defines the hover style for the main and sub items. */
+            background-color: #509EE7;
+        }

@@ -1,0 +1,18 @@
+﻿body {
+        color: mediumpurple;
+        font-size: 50px;
+        font-weight: 800;
+        background-color: lightblue;
+    }
+     h1 {
+        color : darkturquoise;
+        font-size: 75px;
+    }
+    .special {
+        color: darkseagreen;
+        font-size: 39px;
+    }
+    .activities {
+         color: sandybrown;
+         font-size: 30px;
+    }

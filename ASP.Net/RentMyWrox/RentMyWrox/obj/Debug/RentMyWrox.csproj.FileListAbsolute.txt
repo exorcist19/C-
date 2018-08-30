@@ -1,0 +1,246 @@
+E:\C#\RentMyWrox\RentMyWrox\bin\ApplicationInsights.config
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+E:\C#\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+E:\C#\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Owin.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Razor.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.Razor.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+E:\C#\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+E:\C#\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\C#\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojResolveAssemblyReference.cache
+E:\C#\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+E:\C#\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb
+E:\C#\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.csprojResolveAssemblyReference.cache
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\obj\Debug\RentMyWrox.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\ApplicationInsights.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\csc.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\vbc.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\RentMyWrox.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Owin.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Razor.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\WebGrease.dll
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.Web.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Helpers.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Mvc.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Optimization.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.Razor.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Antlr3.Runtime.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Newtonsoft.Json.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\RentMyWrox\RentMyWrox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
