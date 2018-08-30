@@ -1,0 +1,9 @@
+c:\users\mike novak\documents\visual studio 2015\Projects\Ch4Q1\Ch4Q1\bin\Debug\Ch4Q1.exe.config
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\Ch4Q1\Ch4Q1\bin\Debug\Ch4Q1.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\Ch4Q1\Ch4Q1\bin\Debug\Ch4Q1.pdb
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\Ch4Q1\Ch4Q1\obj\Debug\Ch4Q1.csprojResolveAssemblyReference.cache
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\Ch4Q1\Ch4Q1\obj\Debug\Ch4Q1.exe
+C:\Users\Mike Novak\Documents\Visual Studio 2015\Projects\Ch4Q1\Ch4Q1\obj\Debug\Ch4Q1.pdb
+C:\Users\Mike Novak\OneDrive\C#\Ch4Q1\Ch4Q1\bin\Debug\Ch4Q1.exe.config
+C:\Users\Mike Novak\OneDrive\C#\Ch4Q1\Ch4Q1\obj\Debug\Ch4Q1.exe
+C:\Users\Mike Novak\OneDrive\C#\Ch4Q1\Ch4Q1\obj\Debug\Ch4Q1.pdb

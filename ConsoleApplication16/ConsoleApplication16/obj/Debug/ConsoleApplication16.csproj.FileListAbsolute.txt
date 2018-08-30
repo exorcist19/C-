@@ -1,0 +1,7 @@
+c:\users\mike novak\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csprojResolveAssemblyReference.cache
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Mike Novak\OneDrive\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
